@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ¡Hola! :wave:
+## ¡Hola! 👋
 
 ¡Bienvenido a mi perfil de GitHub!
 
-### Sobre mí 👋
+### Sobre mí 🙋‍♂️
 
 Soy Iván, un apasionado desarrollador de software. Me gradué en la Universidad Tecnologica de Tucuman, Argentina en 2023.
 
@@ -39,3 +39,5 @@ Podes encontrarme en:
 ¡Siéntete libre de explorar mis proyectos y no dudes en contactarme si tienes alguna pregunta o propuesta de colaboración!
 
 ¡Gracias por visitar mi perfil! 😊
+
+<img src="https://ivan-kameyha.github.io/portfolio/assets/avatar1-e167bcf2.jpg" alt="Avatar" width="90">
