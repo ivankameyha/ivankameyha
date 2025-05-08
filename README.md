@@ -36,7 +36,7 @@ Soy desarrollador de software con un fuerte enfoque en aplicaciones web y de esc
 ---
 
 ### 🤝 **Conectemos**
-- [LinkedIn](www.linkedin.com/in/ivankameyha)
+- [LinkedIn](https://www.linkedin.com/in/ivankameyha/)
 - [Portafolio](https://ivankameyha.github.io/portfolio)
 - 📧 **Correo:** kameyhaivan@gmail.com  
 
